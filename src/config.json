@@ -1,0 +1,35 @@
+{
+    "app1":{
+        "importName" :"import App from './app1/src/app'"
+    },
+    "app2":{
+        "importName" :"import App from './app2/src/app'"
+    },
+    "app3":{
+        "importName" :"import App from './app3/src/app'"
+    },
+    "app4":{
+        "importName" :"import App from './app4/src/app'"
+    },
+    "app5":{
+        "importName" :"import App from './app5/src/app'"
+    },
+    "app6":{
+        "importName" :"import App from './app6/src/app'"
+    },
+    "app7":{
+        "importName" :"import App from './app7/src/app'"
+    },
+    "app8":{
+        "importName" :"import App from './app8/src/app'"
+    },
+    "app9":{
+        "importName" :"import App from './app9/src/app'"
+    },
+    "app10":{
+        "importName" :"import App from './app10/src/app'"
+    },
+    "app11":{
+        "importName" :"import App from './app11/src/app'"
+    }
+}
